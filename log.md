@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: October 20, 2019
+### Day 1: October 20, 2019 - Sunday
 
 **Today's Progress**: Worked through entire Basic HTML & HTML5 modules on freeCodeCamp, and about half of the Basic CSS modules. 
 
@@ -8,7 +8,7 @@
 
 **Link to work:** N/A
 
-### Day 2: October 21, 2019 
+### Day 2: October 21, 2019 - Monday
 
 **Today's Progress**: Work 14 hours today, so got up at 5:30 and started coding around 6:00. Continued CSS work on FCC, and Bootstrap with CWD2020.
 
@@ -17,12 +17,11 @@
 **Link(s) to work**: N/A
 
 
-### Day 1: June 27, Monday
+### Day 3: October 22, 2019 - Tuesday
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**: CWD2020, using Bootstrap to build a responsive landing page. Learned about meta tags, Bootstrap layouts and CSS.  
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Yesterday made for a very long day and I was exhausted by the end, which carried over into today. I'm not sure if I should do the morning coding on Mondays or if this was just an unusual week. Maybe if I went to bed earlier on Sunday night.
 
-**Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+**Link(s) to work**: N/A
+
