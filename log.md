@@ -25,3 +25,12 @@
 
 **Link(s) to work**: N/A
 
+
+### Day 4: October 23, 2019 - Wednesday
+
+**Today's Progress**: Kind of a half-ass day. Made my first open source contribution on GitHub, using the Powershell. That was scary but satisfying, and didn't kill me. After that, I worked with Adobe Photoshop. 
+
+**Thoughts** I need to learn the Adobe applications, but in the future I need to add them to at least an hour of coding. I don't feel good about today's progress.
+
+**Link(s) to work**: N/A
+
