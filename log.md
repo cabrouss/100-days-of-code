@@ -34,3 +34,11 @@
 
 **Link(s) to work**: N/A
 
+
+### Day 5: October 24, 2019 - Thursday
+
+**Today's Progress**: Another half-ass day. Worked a little more with CWD2020, but also started working with a book by Jon Duckett, HTML & CSS Design to solidify my knowledge before moving on to Javascript.
+
+**Thoughts** Tomorrow I need to put in a full two hours. Will also be able to bank some serious hours this weekend.
+
+**Link(s) to work**: N/A
